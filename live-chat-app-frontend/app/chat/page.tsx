@@ -500,6 +500,8 @@ export default function Chat() {
   const [showSidebar, setShowSidebar] = useState(true);
   const [isMobile, setIsMobile] = useState(false);
 
+
+  
   const [searchQuery, setSearchQuery] = useState("");
   const [isSearchOpen, setIsSearchOpen] = useState(false);
 
