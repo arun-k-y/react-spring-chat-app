@@ -1,0 +1,5 @@
+# Ignore node_modules and build folders
+live-chat-app-frontend/node_modules/
+live-chat-app-frontend/.next/
+live-chat-app-frontend/.turbo/
+live-chat-app-backend/target/
